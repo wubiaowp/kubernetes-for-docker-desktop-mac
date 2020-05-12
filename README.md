@@ -1,2 +1,7 @@
 # kubernetes-for-docker-desktop-mac
-macOS搭建kubernetes
+
+    MacOS搭建kubernetes
+    
+    Kubernetes版本：1.15.5
+    
+    Kubernetes版本：1.16.5
