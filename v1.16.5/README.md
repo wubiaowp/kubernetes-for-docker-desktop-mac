@@ -8,7 +8,7 @@
     
 3、添加镜像加速地址：
 
-    阿里云镜像地址
+    我是用的是阿里云镜像地址
 
 4、下载镜像：
 
@@ -42,3 +42,7 @@
 6、获取令牌: 
 
     ./access.sh
+    
+7、详情参考：
+
+    https://my.oschina.net/wubiaowpBlogShare/blog/4261466
