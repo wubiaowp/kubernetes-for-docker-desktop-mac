@@ -12,7 +12,7 @@
 
 4、下载镜像：
 
-    执行脚本：./images.sh
+    执行脚本：sh ./images.sh
 
     查看镜像：docker images
 
@@ -41,7 +41,7 @@
 
 6、获取令牌: 
 
-    ./access.sh
+    sh ./access.sh
     
 7、详情参考：
 
