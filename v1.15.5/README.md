@@ -18,12 +18,12 @@
 
 5、设置打开
 
-    4.1、启动Kubernetes:Docker-->Preference-->Enable Kubernetes
+    5.1、启动Kubernetes:Docker-->Preference-->Enable Kubernetes
 
     注：等待kubernetes启动完成、如果长时间未启动通过查看启动日志或者查看依赖镜像是否下载完整
 
    
-    4.2、启动完成执行如下操作：
+    5.2、启动完成执行如下操作：
    
     kubectl config use-context docker-desktop
    
@@ -34,10 +34,10 @@
     kubectl apply -f kubernetes-dashboard.yaml
    
     
-    4.3、开启代理访问：kubectl proxy
+    5.3、开启代理访问：kubectl proxy
   
     
-    4.4、页面访问地址：http://localhost:8001/api/v1/namespaces/kube-system/services/https:kubernetes-dashboard:/proxy
+    5.4、页面访问地址：http://localhost:8001/api/v1/namespaces/kube-system/services/https:kubernetes-dashboard:/proxy
 
 6、获取令牌: 
 
