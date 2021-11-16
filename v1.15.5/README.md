@@ -1,6 +1,8 @@
 1、安装docker版本19.03.8(官网下载或者通过下面的链接)
 
-    链接:https://pan.baidu.com/s/1U1F05APvBXAI4nL1oMVBUQ  密码:lj4v
+    链接:https://pan.baidu.com/s/1U1F05APvBXAI4nL1oMVBUQ  密码:lj4v  【MAC】
+    
+    链接:https://pan.baidu.com/s/1GBCG0_1A1bTtxmU1lyaTkA  密码：7v45 【WIN】
 
 2、配置资源：
 
