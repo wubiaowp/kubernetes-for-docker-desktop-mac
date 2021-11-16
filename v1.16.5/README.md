@@ -1,8 +1,6 @@
 1、安装docker版本2.2.2.0(官网下载或者通过下面的链接)
 
-    https://pan.baidu.com/s/154QYWYeBv3LfmHdrtxiR3w  密码:65qz 【MAC】
-
-    https://pan.baidu.com/s/1GBCG0_1A1bTtxmU1lyaTkA  密码：7v45 【WIN】
+    https://pan.baidu.com/s/154QYWYeBv3LfmHdrtxiR3w  密码:65qz
 
 2、配置资源：
 
