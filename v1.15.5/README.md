@@ -2,7 +2,7 @@
 
     链接:https://pan.baidu.com/s/1U1F05APvBXAI4nL1oMVBUQ  密码:lj4v  【MAC】
     
-    链接:https://pan.baidu.com/s/1GBCG0_1A1bTtxmU1lyaTkA  密码：7v45 【WIN】
+    链接:https://pan.baidu.com/s/1GBCG0_1A1bTtxmU1lyaTkA  密码：7v45 【WIN-Docker-2.2.0.5】
 
 2、配置资源：
 
